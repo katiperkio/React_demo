@@ -1,8 +1,9 @@
 const Box = () => {
   return (
     <div>
-      <h1>Classroom practice</h1>
-      <p>Hello my name is Kati</p>
+      <h1>Name:</h1>
+      <p>Title:</p>
+      <p>Location:</p>
     </div>
   );
 };
