@@ -21,6 +21,10 @@ body {
   min-height: 100vh;
 }
 
+header h1 {
+  font-size: 40px;
+}
+
 h1 {
   font-size: 35px;
   line-height: 1.1;
@@ -28,6 +32,10 @@ h1 {
 
 p {
   font-size: 25px;
+}
+
+footer p {
+  font-size: 12px;
 }
 
 @media (prefers-color-scheme: light) {
